@@ -2,6 +2,8 @@
 
 A React webapp made with bootstrap, react, redux libraries. 
 
+Here is the deployment link hosted on firebase [Click Here](https://impact-analysis-react.web.app/)
+
 **Features implemented in the webapp:**
 1. Moderator can select or reject the candidate using buttons provided on each candidate card component
 
