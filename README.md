@@ -1,3 +1,18 @@
+## Candidate Selection Rejection Web App
+
+A React webapp made with bootstrap, react, redux libraries. 
+
+**Features implemented in the webapp:**
+1. Moderator can select or reject the candidate using buttons provided on each candidate card component
+
+2. Seperate routing provided for selected and rejected candidates. You can select or reject candidates from any routing page.
+
+3. Seperate route provided to route to each candidate. you can select or reject candidate from that individual page too
+
+4. Search functionality by name is provided to limit the number of users in page view
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
